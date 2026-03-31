@@ -1,6 +1,6 @@
 #!/bin/bash
 # Script 2: FOSS Package Inspector
-# Author: Arnav Upasani
+# Author: Arnav Sharma
 
 PACKAGE="git"
 
