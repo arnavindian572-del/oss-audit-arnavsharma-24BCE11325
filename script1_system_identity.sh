@@ -1,9 +1,9 @@
 #!/bin/bash 
 # Script 1: System Identity Report 
-# Author: Arnav Upasani
+# Author: Arnav Sharma
  
  
-STUDENT_NAME="Arnav Upasani"
+STUDENT_NAME="Arnav Sharma"
 SOFTWARE_CHOICE="Git"	 
  
  
